@@ -128,4 +128,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'peter.youren@gmail.com'
-EMAIL_HOST_PASSWORD = 'vtlm pkcx zldc hlmc'
+EMAIL_HOST_PASSWORD = '///'
